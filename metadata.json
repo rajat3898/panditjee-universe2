@@ -1,0 +1,6 @@
+{
+  "name": "PanditJee",
+  "description": "A Vedic Astrologer & Spiritual Guide offering personalized Kundali birth charts, horoscope readings, Ashtakoot Gun Milan matchmaking, daily Panchang almanac, and custom mantra remedies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
